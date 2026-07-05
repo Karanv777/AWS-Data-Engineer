@@ -25,9 +25,9 @@ The project highlights how AWS can be used to build reliable, secure, and cost-e
 - **Amazon EC2** – Compute resources for deployment and testing.
 - **AWS IAM** – Identity and access management.
 - **Amazon CloudWatch** – Monitoring and logging.
-- **AWS Glue** *(if applicable)* – ETL and data cataloging.
-- **Amazon Athena** *(if applicable)* – SQL-based data querying.
-- **Amazon RDS / SQLite** *(depending on project)* – Structured data storage.
+- **AWS Glue** – ETL and data cataloging.
+- **Amazon Athena** – SQL-based data querying.
+- **Amazon RDS / SQLite** – Structured data storage.
 
 ---
 <img width="902" height="448" alt="Screenshot 2026-07-05 224727" src="https://github.com/user-attachments/assets/615fd3e0-1bc7-43c7-b34a-a3c781a57043" />
