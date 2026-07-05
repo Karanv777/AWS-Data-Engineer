@@ -30,7 +30,7 @@ The project highlights how AWS can be used to build reliable, secure, and cost-e
 - **Amazon RDS / SQLite** *(depending on project)* – Structured data storage.
 
 ---
-
+<img width="902" height="448" alt="Screenshot 2026-07-05 224727" src="https://github.com/user-attachments/assets/615fd3e0-1bc7-43c7-b34a-a3c781a57043" />
 ---
 
 ## Architecture
