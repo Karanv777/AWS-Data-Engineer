@@ -46,3 +46,6 @@ This phase imports the live cloud schema, transforms the data to remove CSV stru
 *   Build a **Geographic Traffic Distribution** visual by adding a Stacked Bar Chart with `country` on the Y-axis and `user_id` (Count) on the X-axis.
 *   Build a **Platform Split** visual by adding a Pie Chart with `device` as the Legend and `user_id` (Count) as Values.
 *   Build a **Page Engagement Performance** visual by adding a Stacked Column Chart with `page` on the X-axis and `user_id` (Count) on the Y-axis.
+
+*   <img width="1140" height="648" alt="Screenshot 2026-07-02 121409" src="https://github.com/user-attachments/assets/2e4ae328-b265-4917-b80a-64dd240c3baf" />
+
